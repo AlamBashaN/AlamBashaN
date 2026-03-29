@@ -13,7 +13,7 @@
 -💬 Ask me about Programming, Projects & Tech
 ## 📊 GitHub Stats
 
--💬 Ask me about Programming, Projects & Tech
+
 <h2 align="left"></h2>
 
 ###
