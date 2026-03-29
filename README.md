@@ -9,6 +9,16 @@
 -🧠 I’m looking for help with Data Structures & Algorithms
 
 -🌱 I’m currently learning Full Stack Development
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlamBashaN&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=AlamBashaN&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlamBashaN&layout=compact&theme=radical" />
+</p>
 
 -💬 Ask me about Programming, Projects & Tech
 <h2 align="left"></h2>
