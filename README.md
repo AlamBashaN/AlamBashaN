@@ -78,12 +78,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AlamBashaN/AlamBashaN/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">🏆 Achievements:<br><br>🎯 Consistent learner and problem solver<br>💻 Built multiple academic & personal projects<br>🚀 Actively improving coding skills</p>
 
 ###
